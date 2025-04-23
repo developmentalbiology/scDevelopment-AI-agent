@@ -68,6 +68,9 @@ python user_interaction.py
 ```
 The tool will interactively guide you through available tasks. Follow the prompts to load datasets, preprocess data, perform integration, or run annotations.
 
+### **DeepSeek API key**
+you will be asked to provide **DeepSeek API key**, Please visit the DeepSeek Platform to create API keys: https://platform.deepseek.com/api_keys
+
 ### **Input Files**
 - **Single Dataset**: Provide a '.h5ad' file for individual tasks.
 - **Multiple Datasets**: Provide a directory containing '.h5ad' files for integration tasks.
